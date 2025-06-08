@@ -1,9 +1,5 @@
 reddit.com
 
-ipinfo.io
-ipregistry.co
-
-
 DOMAIN-SUFFIX,pscdn.co,Proxy
 DOMAIN-SUFFIX,scdn.co,Proxy
 DOMAIN-SUFFIX,spotify.com,Proxy
