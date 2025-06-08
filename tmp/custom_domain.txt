@@ -1,1 +1,12 @@
 reddit.com
+
+DOMAIN-SUFFIX,pscdn.co,Proxy
+DOMAIN-SUFFIX,scdn.co,Proxy
+DOMAIN-SUFFIX,spotify.com,Proxy
+DOMAIN-SUFFIX,spoti.fi,Proxy
+DOMAIN-KEYWORD,spotify.com,Proxy
+DOMAIN-KEYWORD,-spotify-com,Proxy
+DOMAIN-SUFFIX,audio-akp-bbr-spotify-com.akamaized.net,Proxy
+DOMAIN-SUFFIX,audio4-ak-spotify-com.akamaized.net,Proxy
+DOMAIN-SUFFIX,audio-ak-spotify-com.akamaized.net,Proxy
+DOMAIN-SUFFIX,heads-ak-spotify-com.akamaized.net,Proxy

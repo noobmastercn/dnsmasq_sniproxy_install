@@ -80,6 +80,9 @@ atv-ps-eu.amazon.com
 atv-ps-eu.amazon.co.uk
 atv-ps-fe.amazon.co.jp
 atv-ps-fe.amazon.com
+audio4-ak-spotify-com.akamaized.net
+audio-akp-bbr-spotify-com.akamaized.net
+audio-ak-spotify-com.akamaized.net
 avodmp4s3ww-a.akamaihd.net
 azureedge.net
 azurefd.net
@@ -315,6 +318,7 @@ hbomaxcdn.com
 hbomax.com
 hbonow.com
 hbounify-prod.evergent.com
+heads-ak-spotify-com.akamaized.net
 hinet.net
 hjholdings.jp
 hjholdings.tv
@@ -501,6 +505,7 @@ proactivebackend-pa.googleapis.com
 prod.boltdns.net
 prod.hjholdings.tv
 prod-skyonelive.akamaized.net
+pscdn.co
 p-smith.com
 pstatic.net
 pv-cdn.net
@@ -522,6 +527,7 @@ sbsod.com
 sbsvoddai-vh.akamaihd.net
 sbsvodns-vh.akamaihd.net
 scc.ott.hinet.net
+scdn.co
 screens-lab.jp
 scvm1sc0-ssm.anycast.nagra.com
 sdk.iad-03.braze.com
@@ -551,6 +557,8 @@ sonyliv.com
 sooka.my
 sora.com
 spongead.com
+spoti.fi
+spotify.com
 spotvnow.co.kr
 stan.com.au
 stan.video
