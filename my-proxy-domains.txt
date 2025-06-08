@@ -1,5 +1,3 @@
-ytimg.com
-googlevideo.com
 reddit.com
 0c86e2d1-madman-com-au.akamaized.net
 10play.com.au
@@ -567,8 +565,6 @@ yb.uncn.jp
 ykimg.com
 youku.com
 yourtv.com.au
-youtube.com
-youtubei.googleapis.com
 zahs.tv
 zdf.de
 zee5.com
