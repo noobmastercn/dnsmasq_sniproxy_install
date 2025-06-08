@@ -35,6 +35,13 @@ wget --no-check-certificate -O dnsmasq_sniproxy.sh https://raw.githubusercontent
 wget --no-check-certificate -O ufw_quick_manage.sh https://raw.githubusercontent.com/noobmastercn/dnsmasq_sniproxy_install/master/ufw_quick_manage.sh && bash ufw_quick_manage.sh
 ```
 
+### 替换dnsmasq配置文件中的ip
+
+``` Bash
+wget --no-check-certificate -O replace_resolv_ip.sh https://raw.githubusercontent.com/noobmastercn/dnsmasq_sniproxy_install/master/replace_resolv_ip.sh && bash replace_resolv_ip.sh
+```
+
+
 ### 普通安装：
 ``` Bash
 wget --no-check-certificate -O dnsmasq_sniproxy.sh https://raw.githubusercontent.com/noobmastercn/dnsmasq_sniproxy_install/master/my_dnsmasq_sniproxy.sh && bash dnsmasq_sniproxy.sh -i
