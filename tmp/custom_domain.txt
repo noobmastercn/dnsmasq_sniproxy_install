@@ -1,4 +1,5 @@
 ipinfo.io
+ping0.cc
 
 DOMAIN-SUFFIX,redd.it
 DOMAIN-SUFFIX,reddit.com
