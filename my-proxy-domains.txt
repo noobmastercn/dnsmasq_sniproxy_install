@@ -68,6 +68,7 @@ atttvnow.com
 audio4-ak-spotify-com.akamaized.net
 audio-akp-bbr-spotify-com.akamaized.net
 audio-ak-spotify-com.akamaized.net
+augmentcode.com
 azureedge.net
 azurefd.net
 bahamut.akamaized.net
@@ -134,6 +135,7 @@ chatgpt.com
 chocotv.com.tw
 cinemax.com
 claude.ai
+claudeusercontent.com
 cliptv.vn
 cloudfront.net
 clubdam.com
@@ -150,6 +152,10 @@ crackle.com
 crave.ca
 crunchyroll.com
 cssott.com
+cursorapi.com
+cursor-cdn.com
+cursor.com
+cursor.sh
 cws-hulu.conviva.com
 cwtv.com
 cygames.jp
@@ -176,6 +182,7 @@ dcalivedazn.akamaized.net
 dca-ll-livedazn-dznlivejp.s.llnwi.net
 dcblivedazn.akamaized.net
 dfp6rglgjqszk.cloudfront.net
+diabrowser.com
 dicelaboratory.com
 diceplatform.com
 digicert.com
@@ -235,6 +242,7 @@ eurosportplayer.com
 eurosport.ro
 eurosport.ru
 exhentai.org
+exp-tas.com
 f1prodlive.akamaized.net
 failoverstarhub.akamaized.net
 fbcdn.net
@@ -260,6 +268,7 @@ gamer-cds.cdn.hinet.net
 gamer.com.tw
 gemini.google.com
 generativelanguage.googleapis.com
+genspark.ai
 geo-id-media-001-vidio-com.akamaized.net
 geolocation.onetrust.com
 getblueshift.com
@@ -268,6 +277,7 @@ gitv.tv
 global.ssl.fastly.net
 glxplay.io
 go-mpulse.net
+googleapis.com
 google.com
 gorin.jp
 grpc.biliapi.net
@@ -372,6 +382,7 @@ LiTV.tv
 live01-stan.akamaized.net
 live02-stan.akamaized.net
 logx.optimizely.com
+manus.im
 max.com
 maxgo.com
 mbc.net
@@ -386,6 +397,7 @@ microad.jp
 mobileanalytics.us-east-1.amazonaws.com
 mobile-collector.newrelic.com
 molotov.tv
+monica.im
 mora.jp
 movenetworks.com
 movetv.com
@@ -450,6 +462,7 @@ oaiusercontent.com
 ofiii.com
 ols-ww100-cp.akamaized.net
 openai.com
+openrouter.ai
 optus.com.au
 optusdigital.com
 optusnet.com.au
@@ -559,6 +572,7 @@ spotify.map.fastly.net
 spotifynewsroom.jp
 spotilocal.com
 spotvnow.co.kr
+sspark.ai
 stan.com.au
 stan.video
 starhubgo.com
@@ -570,6 +584,8 @@ streaks.jp
 streamcoimg-a.akamaihd.net
 stream.ne.jp
 streamotion.com.au
+stripe.com
+stripe.network
 suike.cn
 s.yimg.jp
 tataplay.com
@@ -636,6 +652,7 @@ watchespn.com
 watchnba.cdnfastly.endeavorstreaming.net
 wavve.com
 webantenna.info
+workos.com
 worldflipper.jp
 wowow.co.jp
 www.bilibili.com

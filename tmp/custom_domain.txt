@@ -1,6 +1,32 @@
 ipinfo.io
 ping0.cc
 
+DOMAIN-SUFFIX,generativelanguage.googleapis.com,"💬 AI服务"
+DOMAIN-SUFFIX,diabrowser.com,"💬 AI服务"
+DOMAIN-SUFFIX,openrouter.ai,"💬 AI服务"
+DOMAIN-SUFFIX,augmentcode.com,"💬 AI服务"
+DOMAIN-SUFFIX,anthropic.com,"💬 AI服务"
+DOMAIN-SUFFIX,claudeusercontent.com,"💬 AI服务"
+DOMAIN-SUFFIX,claude.ai,"💬 AI服务"
+DOMAIN-SUFFIX,cursor.com,"💬 AI服务"
+DOMAIN-SUFFIX,cursor.sh,"💬 AI服务"
+DOMAIN-SUFFIX,cursor-cdn.com,"💬 AI服务"
+DOMAIN-SUFFIX,cursorapi.com,"💬 AI服务"
+DOMAIN-SUFFIX,workos.com,"💬 AI服务"
+DOMAIN-SUFFIX,manus.im,"🔰 节点选择"
+DOMAIN-SUFFIX,monica.im,"🔰 节点选择"
+DOMAIN-SUFFIX,genspark.ai,"🔰 节点选择"
+DOMAIN-SUFFIX,sspark.ai,"🔰 节点选择"
+exp-tas.com
+cursorapi.com
+
+googleapis.com
+stripe.com
+stripe.network
+intercomcdn.com
+sentry.io
+
+
 DOMAIN-SUFFIX,redd.it
 DOMAIN-SUFFIX,reddit.com
 DOMAIN-SUFFIX,redditmail.com
