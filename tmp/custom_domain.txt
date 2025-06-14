@@ -1,6 +1,9 @@
 ipinfo.io
 ping0.cc
 
+amazonaws.com
+microsoft.com
+
 DOMAIN-SUFFIX,generativelanguage.googleapis.com,"💬 AI服务"
 DOMAIN-SUFFIX,diabrowser.com,"💬 AI服务"
 DOMAIN-SUFFIX,openrouter.ai,"💬 AI服务"
@@ -74,3 +77,34 @@ DOMAIN-SUFFIX,spotifynewsroom.jp
 DOMAIN-SUFFIX,spotilocal.com
 DOMAIN-SUFFIX,tospotify.com
 DOMAIN-KEYWORD,spotify
+
+d1v5ir2lpwr8os.cloudfront.net
+d22qjgkvxw22r6.cloudfront.net
+d25xi40x97liuc.cloudfront.net
+d27xxe7juh1us6.cloudfront.net
+dmqdd6hw24ucf.cloudfront.net
+atv-ext-eu.amazon.com
+atv-ext-fe.amazon.com
+atv-ext.amazon.com
+atv-ps-eu.amazon.co.uk
+atv-ps-eu.amazon.com
+atv-ps-fe.amazon.co.jp
+atv-ps-fe.amazon.com
+atv-ps.amazon.com
+aiv-cdn.net
+aiv-delivery.net
+amazonprimevideo.cn
+amazonprimevideo.com.cn
+amazonprimevideos.com
+amazonvideo.cc
+amazonvideo.com
+atv-ps.amazon.com
+avodmp4s3ww-a.akamaihd.net
+fls-na.amazon.com
+pv-cdn.net
+video.a2z.com
+media-amazon.com
+prime-video.com
+primevideo.com
+primevideo.org
+primevideo.tv
