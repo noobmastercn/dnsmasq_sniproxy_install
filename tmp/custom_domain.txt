@@ -1,5 +1,6 @@
 ipinfo.io
 ping0.cc
+ippure.com
 
 amazonaws.com
 microsoft.com
