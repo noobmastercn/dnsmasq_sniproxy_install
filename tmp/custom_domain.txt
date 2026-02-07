@@ -5,6 +5,13 @@ ippure.com
 amazonaws.com
 microsoft.com
 
+claude.ai
+claude.com
+anthropic.com
+cdn.usefathom.com
+usefathom.com
+
+
 DOMAIN-SUFFIX,generativelanguage.googleapis.com,"💬 AI服务"
 DOMAIN-SUFFIX,diabrowser.com,"💬 AI服务"
 DOMAIN-SUFFIX,openrouter.ai,"💬 AI服务"
