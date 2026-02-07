@@ -1,6 +1,10 @@
 ipinfo.io
 ping0.cc
 ippure.com
+ipapi.co
+ippure.com
+ipip.net
+123169.xyz
 
 amazonaws.com
 microsoft.com
